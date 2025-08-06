@@ -14,6 +14,12 @@ Game development is my true passion. As I look for a way to break into the indus
 Here's some other gamedev projects you can check out:
 - Island Hopping Simulator: The baseline for a turn-based grand strategy game that would be about attacking or defending an island.
     - I also made this project in GameMaker Studio (written in C).
+<img width="781" height="398" alt="image" src="https://github.com/user-attachments/assets/0a0d889c-c93e-46fe-b401-a224e5422d0b" />
+<img width="905" height="407" alt="image" src="https://github.com/user-attachments/assets/e9172bc7-d7f5-4acb-a98e-b51b3e6b6946" />
+<img width="904" height="405" alt="image" src="https://github.com/user-attachments/assets/5667460c-2848-47ad-b109-8e01f3cb1981" />
+
+
+
 - Goofy Golf: A school project that I took the lead on.
 - "Wacky Games": My next big effort. I'm trying to make a suite of classic computer games with some friends to see if we can work together on more projects in the future.
 - Roster Generator (proof of concept)
