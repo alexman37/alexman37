@@ -26,6 +26,7 @@ Here's some other gamedev projects you can check out:
 - [The Right Door](https://github.com/alexman37/the-right-door): This was going to be a story game about a group of random people stuck in a mansion, where the only way out is to follow an ever-expanding complicated set of "house rules". I got as far as a room generation system, a dialogue system, and some sprite art!
 
 Dialogue System Demo: https://youtu.be/zOq-0c7gSiw
+
 Room gen demo: https://youtu.be/6Mbv2Gc6hoY
 
 <img width="656" height="369" alt="image" src="https://github.com/user-attachments/assets/133e6cc5-3605-473b-a0d7-0d9b8944c118" />
@@ -35,8 +36,13 @@ Room gen demo: https://youtu.be/6Mbv2Gc6hoY
 <img width="1651" height="1604" alt="image" src="https://github.com/user-attachments/assets/7f9e5134-938b-49bf-91c8-7e8f07903389" />
 <img width="1299" height="1145" alt="image" src="https://github.com/user-attachments/assets/40524d0e-4f89-4932-aa5e-d74fa27557d7" />
 
+- [Haystack](https://github.com/alexman37/HAYSTACK-GAME/tree/main/Assets/Scenario): This was an overly ambitious game about solving a randomly generated murder mystery. I used some cool tricks to develop sprites that generate on the fly, and did a decent (back then it was decent, anyways...) job of organizing the overall project structure. **But as you can see the visual design was very unfinished.** Maybe I'll come back to this someday.
 
-- [Haystack](https://github.com/alexman37/HAYSTACK-GAME/tree/main/Assets/Scenario): This was an overly ambitious game about solving a randomly generated murder mystery. I used some cool tricks to develop sprites that generate on the fly, and did a decent (back then it was decent, anyways...) job of organizing the overall project structure. Maybe I'll come back to this one.
+Basic Room generation (w/ chracter sprites generated on the fly):
+<img width="1101" height="561" alt="image" src="https://github.com/user-attachments/assets/cdb1e6cb-df54-4a39-8883-494c624e055e" />
+
+Roster generation (The list of characters you'd interact with):
+<img width="1101" height="561" alt="image" src="https://github.com/user-attachments/assets/6befa9cf-e1f7-4d96-afa3-4ac28eae5c0e" />
 
 
 - [Goofy Golf](https://github.com/edwarddu2001/CMSC425-Game): A school project that I took the lead on. Basically the whole thing was developed in 3 weeks, and I did much of the underlying backend work. Here's a [writeup](https://docs.google.com/document/d/1B0ZsxVJxLbenDOoxv57Z-n9tU2TgOC-PvNkzY5lESOc/edit?tab=t.0) on it. And a screenshot:
