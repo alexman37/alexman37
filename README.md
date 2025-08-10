@@ -52,8 +52,8 @@ I've improved a lot since then, but this at least shows I was able to work on (a
 
 
 And here's some work or school-related projects that might demonstrate my skill in various areas:
-- A comprehensive data analysis of 4th Downs in the NFL.
-- Maps I completed for the EPA. I like maps. Very much.
+- [A comprehensive data analysis of 4th Downs in the NFL.](https://aack37.github.io/aack37/)
+- [Maps I completed for the EPA.](https://docs.google.com/document/d/1vDQ4hmy-gXlUUO1SJuB9jJpgcCy3GO-X/edit) I like maps. Very much.
 
 Thanks for getting this far! Message me any time at:
 
