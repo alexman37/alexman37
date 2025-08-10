@@ -12,7 +12,7 @@ If you happen to be a recruiter or hiring person (thanks for visiting, by the wa
 Game development is my true passion. As I look for a way to break into the industry, I am always working on at least one idea at a time, hoping to prove to others and myself that this is what I was meant to do.
 
 Here's some other gamedev projects you can check out:
-- Island Hopping Simulator: The baseline for a turn-based grand strategy game that would be about attacking or defending an island.
+- [Island Hopping Simulator](https://github.com/alexman37/lonely-island): The baseline for a turn-based grand strategy game that would be about attacking or defending an island.
     - I also made this project in GameMaker Studio (written in C).
 <img width="781" height="398" alt="image" src="https://github.com/user-attachments/assets/0a0d889c-c93e-46fe-b401-a224e5422d0b" />
 <img width="905" height="407" alt="image" src="https://github.com/user-attachments/assets/e9172bc7-d7f5-4acb-a98e-b51b3e6b6946" />
@@ -20,11 +20,37 @@ Here's some other gamedev projects you can check out:
 
 
 
-- Goofy Golf: A school project that I took the lead on.
-- "Wacky Games": My next big effort. I'm trying to make a suite of classic computer games with some friends to see if we can work together on more projects in the future.
-- Roster Generator (proof of concept)
-- 2D top-down Room generator (proof of concept)
+- ["Wacky Games"](https://github.com/alexman37/wacky-games): My next big effort. I'm trying to make a suite of classic computer games with some friends to see if we can work together on more projects in the future. Please orgive the amateurish look for now!
+<img width="1108" height="557" alt="image" src="https://github.com/user-attachments/assets/64a26a7c-f0a5-452b-94e1-acc085c2ae5a" />
+
+- [The Right Door](https://github.com/alexman37/the-right-door): This was going to be a story game about a group of random people stuck in a mansion, where the only way out is to follow an ever-expanding complicated set of "house rules". I got as far as a room generation system, a dialogue system, and some sprite art!
+
+Dialogue System Demo: https://youtu.be/zOq-0c7gSiw
+Room gen demo: https://youtu.be/6Mbv2Gc6hoY
+
+<img width="656" height="369" alt="image" src="https://github.com/user-attachments/assets/133e6cc5-3605-473b-a0d7-0d9b8944c118" />
+
+![walking-characters](https://github.com/user-attachments/assets/a0691b86-c712-49c3-a6ca-a34d9230e8f9)
+
+<img width="1651" height="1604" alt="image" src="https://github.com/user-attachments/assets/7f9e5134-938b-49bf-91c8-7e8f07903389" />
+<img width="1299" height="1145" alt="image" src="https://github.com/user-attachments/assets/40524d0e-4f89-4932-aa5e-d74fa27557d7" />
+
+
+- [Haystack](https://github.com/alexman37/HAYSTACK-GAME/tree/main/Assets/Scenario): This was an overly ambitious game about solving a randomly generated murder mystery. I used some cool tricks to develop sprites that generate on the fly, and did a decent (back then it was decent, anyways...) job of organizing the overall project structure. Maybe I'll come back to this one.
+
+
+- [Goofy Golf](https://github.com/edwarddu2001/CMSC425-Game): A school project that I took the lead on. Basically the whole thing was developed in 3 weeks, and I did much of the underlying backend work. Here's a [writeup](https://docs.google.com/document/d/1B0ZsxVJxLbenDOoxv57Z-n9tU2TgOC-PvNkzY5lESOc/edit?tab=t.0) on it. And a screenshot:
+<img width="622" height="301" alt="image" src="https://github.com/user-attachments/assets/45ebda0e-d990-4eab-a90f-0f56aa917893" />
+
+I've improved a lot since then, but this at least shows I was able to work on (and lead) a team to finish a pretty decent game in a short window of time.
+
 
 And here's some work or school-related projects that might demonstrate my skill in various areas:
-- A comprehensive data analysis of 4th Downs in the NFL
-- Maps I completed for the EPA
+- A comprehensive data analysis of 4th Downs in the NFL.
+- Maps I completed for the EPA. I like maps. Very much.
+
+Thanks for getting this far! Message me any time at:
+
+Personal email: alexackler@gmail.com
+Dev email: greeneagles.dev@gmail.com
+Phone: 1-215-595-3412
