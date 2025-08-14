@@ -24,7 +24,7 @@ Here's some other gamedev projects you can check out:
 <img width="905" height="407" alt="image" src="https://github.com/user-attachments/assets/e9172bc7-d7f5-4acb-a98e-b51b3e6b6946" />
 <img width="904" height="405" alt="image" src="https://github.com/user-attachments/assets/5667460c-2848-47ad-b109-8e01f3cb1981" />
 
-- ["Wacky Games"](https://github.com/alexman37/wacky-games): My next big effort. I'm trying to make a suite of classic computer games with some friends to see if we can work together on more projects in the future. Please forgive the amateurish look for now!
+- ["Wacky Games"](https://github.com/alexman37/wacky-games): My next big effort. I'm trying to make a suite of classic computer games with some friends to see if we can work together on more projects in the future. Please forgive the amateurish look for now, I literally just started this!
 <img width="1108" height="557" alt="image" src="https://github.com/user-attachments/assets/64a26a7c-f0a5-452b-94e1-acc085c2ae5a" />
 
 - [Goofy Golf](https://github.com/edwarddu2001/CMSC425-Game): A school project that I took the lead on. Basically the whole thing was developed in 3 weeks, and I did much of the underlying backend work. Here's a [writeup](https://docs.google.com/document/d/1B0ZsxVJxLbenDOoxv57Z-n9tU2TgOC-PvNkzY5lESOc/edit?tab=t.0) on it. And a screenshot:
