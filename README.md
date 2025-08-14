@@ -7,7 +7,7 @@ Hi! My name is Alex, when I'm developing games I use the name greeneagles. Thank
 
 ## Released Games
 
-Since you're here, you should check out [Wordwalker](https://github.com/alexman37/wordwalker), the project I'm most proud of so far. It's a fully playable, complete puzzle game about spelling tricky words using context clues. I developed all of it by myself over the course of 5 months. I released it on itch and hope to release it to the App Store / Steam in the coming weeks (as of August 2025). Check out the readme in that repository for more information (and how to play it!)
+Since you're here, you should check out [Wordwalker](https://github.com/alexman37/wordwalker), the project I'm most proud of so far. It's a fully playable, complete puzzle game about spelling tricky words using context clues. It was designed for both PC and mobile platforms. I developed all of it by myself over the course of 5 months (with a full time job in tow). I released it on itch ([link](https://greeneagles.itch.io/wordwalker)) and the App Store ([link](https://apps.apple.com/us/app/wordwalker/id6749601380)), and also hope to release it to Steam in the coming weeks (as of August 13 2025). Check out the readme in that repository for more information (and how to play it!)
 
 <img width="630" height="500" alt="image" src="https://github.com/user-attachments/assets/c1a6257f-56d6-4b15-a69a-7b9bbe8cfdc5" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e957deb-1e85-4f3d-b0a5-449ba4ad33d8" />
@@ -60,6 +60,10 @@ And here's some work or school-related projects that might demonstrate my skill 
 - [A comprehensive data analysis of 4th Downs in the NFL.](https://aack37.github.io/aack37/)
 - [Maps I completed for the EPA.](https://docs.google.com/document/d/1vDQ4hmy-gXlUUO1SJuB9jJpgcCy3GO-X/edit) I like maps. Very much.
 
+#### P.S. - My Git History
+Please don't hold my lackluster Git history against me. I make most of my commits from the Github desktop app which is logged into a different account (https://github.com/aack37/aack37) which also doesn't seem to track commits? Git truly is a mystery. If you want a better idea of how much work I do check out Wordwalker's git history or one of my other projects.
+
+## Contact
 Thanks for getting this far! Message me any time at:
 
 Personal email: alexackler@gmail.com
