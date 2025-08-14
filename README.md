@@ -1,9 +1,9 @@
 
 <img width="1024" height="270" alt="greeneagles logo name" src="https://github.com/user-attachments/assets/92fab638-7740-4d22-85e1-0772c8d239a9" />
 
-Hi! My name is Alex, when I'm developing games I use the name greeneagles.
+Hi! My name is Alex, when I'm developing games I use the name greeneagles. Thanks for stopping by!
 
-In a sentence: I'm 24 years old and I've wanted to be a game developer my entire life. [Also here's my resume.](https://docs.google.com/document/d/1Pd8KySJHd6N3YI6C-zRZfvfEqfMvXQbpOgid0jxTDEo/edit?usp=sharing)
+[Here's my resume if you need it wink wink.](https://docs.google.com/document/d/1Pd8KySJHd6N3YI6C-zRZfvfEqfMvXQbpOgid0jxTDEo/edit?usp=sharing)
 
 ## Released Games
 
