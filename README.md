@@ -3,7 +3,7 @@
 
 Hi! My name is Alex, when I'm developing games I use the name greeneagles. Thanks for stopping by!
 
-[Here's my resume if you need it wink wink.](https://docs.google.com/document/d/1Pd8KySJHd6N3YI6C-zRZfvfEqfMvXQbpOgid0jxTDEo/edit?usp=sharing)
+[Resume.](https://docs.google.com/document/d/1Pd8KySJHd6N3YI6C-zRZfvfEqfMvXQbpOgid0jxTDEo/edit?usp=sharing) (If that's what you came for.)
 
 ## Released Games
 
