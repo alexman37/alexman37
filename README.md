@@ -24,6 +24,14 @@ Here's some other gamedev projects you can check out:
 <img width="905" height="407" alt="image" src="https://github.com/user-attachments/assets/e9172bc7-d7f5-4acb-a98e-b51b3e6b6946" />
 <img width="904" height="405" alt="image" src="https://github.com/user-attachments/assets/5667460c-2848-47ad-b109-8e01f3cb1981" />
 
+- [Guess Whomstdve](https://github.com/alexman37/GuessWhomstdve): This will be my second game, if all goes well. It's sort of like "Guess Who" but with billions of suspects instead of the usual 24. The database of characters isn't actually a database (it'd obviously be way too big), but instead, "randomly" generated on the fly with predictable outcomes. I used some number tricks and knowledge of pseudorandom generation to make this work. Someday I'll make a writeup for it!
+
+The project is also my first serious solo foray into shaders and networking.
+
+Early demo:
+
+<img width="1100" height="531" alt="07-13-26" src="https://github.com/user-attachments/assets/30aadfdf-ef2f-4545-801e-65ee19a74281" />
+
 - ["Wacky Games"](https://github.com/alexman37/wacky-games): My next big effort. I'm trying to make a suite of classic computer games with some friends to see if we can work together on more projects in the future. Please forgive the amateurish look for now, I literally just started this!
 <img width="1108" height="557" alt="image" src="https://github.com/user-attachments/assets/64a26a7c-f0a5-452b-94e1-acc085c2ae5a" />
 
@@ -43,17 +51,6 @@ Room gen demo: https://youtu.be/6Mbv2Gc6hoY
 <img width="656" height="369" alt="image" src="https://github.com/user-attachments/assets/133e6cc5-3605-473b-a0d7-0d9b8944c118" />
 
 ![walking-characters](https://github.com/user-attachments/assets/a0691b86-c712-49c3-a6ca-a34d9230e8f9)
-
-<img width="1651" height="1604" alt="image" src="https://github.com/user-attachments/assets/7f9e5134-938b-49bf-91c8-7e8f07903389" />
-<img width="1299" height="1145" alt="image" src="https://github.com/user-attachments/assets/40524d0e-4f89-4932-aa5e-d74fa27557d7" />
-
-- [Haystack](https://github.com/alexman37/HAYSTACK-GAME/tree/main/Assets/Scenario): This was an overly ambitious game about solving a randomly generated murder mystery. I used some cool tricks to develop sprites that generate on the fly, and did a decent (back then it was decent, anyways...) job of organizing the overall project structure. **But as you can see the visual design was very unfinished.** Maybe I'll come back to this someday.
-
-Basic Room generation (w/ chracter sprites generated on the fly):
-<img width="1101" height="561" alt="image" src="https://github.com/user-attachments/assets/cdb1e6cb-df54-4a39-8883-494c624e055e" />
-
-Roster generation (The list of characters you'd interact with):
-<img width="1101" height="561" alt="image" src="https://github.com/user-attachments/assets/6befa9cf-e1f7-4d96-afa3-4ac28eae5c0e" />
 
 ## Other
 And here's some work or school-related projects that might demonstrate my skill in various areas:
