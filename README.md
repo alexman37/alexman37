@@ -24,9 +24,11 @@ Here's some other gamedev projects you can check out:
 <img width="905" height="407" alt="image" src="https://github.com/user-attachments/assets/e9172bc7-d7f5-4acb-a98e-b51b3e6b6946" />
 <img width="904" height="405" alt="image" src="https://github.com/user-attachments/assets/5667460c-2848-47ad-b109-8e01f3cb1981" />
 
-- [Guess Whomstdve](https://github.com/alexman37/GuessWhomstdve): It's sort of like "Guess Who" but with up to many billions of potential suspects (10,000,000,000 to be exact) instead of the usual 24. The database of characters isn't actually a database (it'd obviously be way too big), but instead, "randomly" generated on the fly with predictable outcomes. I used some number tricks and knowledge of pseudorandom generation to make this work. Writeup coming soon!
+- [Guess Whomstdve](https://github.com/alexman37/GuessWhomstdve): It's sort of like "Guess Who" but with up to many billions of potential suspects (10,000,000,000 to be exact) instead of the usual 24. The database of characters isn't actually a database (it'd obviously be way too big), but instead, "randomly" generated on the fly with predictable outcomes. I used some number tricks and knowledge of pseudorandom generation to make this work.
 
 The project has working multiplayer, and features a number of interesting handcrafted shaders (it's how all the character sprites are drawn and shown at once.)
+
+Although I stopped working on it, I learned a lot about shaders and networking while making this.
 
 <img width="1100" height="531" alt="07-13-26" src="https://github.com/user-attachments/assets/30aadfdf-ef2f-4545-801e-65ee19a74281" />
 
@@ -61,6 +63,19 @@ The project has working multiplayer, and features a number of interesting handcr
 
 - [Goofy Golf](https://github.com/edwarddu2001/CMSC425-Game): A school project that I took the lead on. Basically the whole thing was developed in 3 weeks, and I did much of the underlying backend work. Here's a [writeup](https://docs.google.com/document/d/1B0ZsxVJxLbenDOoxv57Z-n9tU2TgOC-PvNkzY5lESOc/edit?tab=t.0) on it. And a screenshot:
 <img width="622" height="301" alt="image" src="https://github.com/user-attachments/assets/45ebda0e-d990-4eab-a90f-0f56aa917893" />
+
+## Extra Credit
+
+Other facts about me:
+
+- I'm 25 years old.
+- 6+ years of personal development using Unity Game Engine.
+- 1 year of professional experience with Unreal Engine.
+- 2 years of professional experience as full-stack software dev, particularly web development (JavaScript).
+- Based in Mid-Atlantic US
+- Favorite genres: Puzzle, Mystery, RPG, Strategy, Horror
+- Favorite Indie games: Blue Prince, Endacopia, Kenshi, OMORI, House, The Roottrees are Dead
+- Favorite major releases: Civilization 5, Kerbal Space Program, Team Fortress 2, Ace Attorney
 
 
 ## Contact
