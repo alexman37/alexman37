@@ -7,7 +7,7 @@ Hi! My name is Alex, when I'm developing games I use the name greeneagles. Thank
 
 ## Released Games
 
-Since you're here, you should check out [Wordwalker](https://github.com/alexman37/wordwalker), the project I'm most proud of so far. It's a fully playable, complete puzzle game about spelling tricky words using context clues. It was designed for both PC and mobile platforms. I developed all of it by myself over the course of 5 months (with a full time job in tow). I released it on itch ([link](https://greeneagles.itch.io/wordwalker)) and the App Store ([link](https://apps.apple.com/us/app/wordwalker/id6749601380)). Check out the readme in that repository for more information (and how to play it!)
+Since you're here, you should check out [Wordwalker](https://github.com/alexman37/wordwalker), the project I'm most proud of so far. It's a fully playable, complete puzzle game about spelling tricky words using context clues. It was made in Unity, and designed for both PC and mobile platforms. I developed all of it by myself over the course of around 6 months, while also working a full-time job. I released it on itch ([link](https://greeneagles.itch.io/wordwalker)) and the App Store ([link](https://apps.apple.com/us/app/wordwalker/id6749601380)). Check out the readme in that repository for more information (and how to play it!)
 
 <img width="630" height="500" alt="image" src="https://github.com/user-attachments/assets/c1a6257f-56d6-4b15-a69a-7b9bbe8cfdc5" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e957deb-1e85-4f3d-b0a5-449ba4ad33d8" />
